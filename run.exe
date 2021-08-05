@@ -1,3 +1,4 @@
 git clone https://github.com/ggeop/Jarvis.git
 bash setup.sh
 nano Jarvis/src/jarvis/jarvis/setting.py
+bash run_jarvis.sh
